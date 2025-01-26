@@ -1,5 +1,4 @@
 ## 🛠️ Skills
-### I use it often.
 <div style="display:flex;gap:10px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
