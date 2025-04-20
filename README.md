@@ -1,3 +1,10 @@
+## 🏅 Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735)](https://solved.ac/gray1735/)
+
+![junn0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true)
+
+
+
 ## 🛠️ Skills
 
 #### 💻 Languages
@@ -35,3 +42,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
 </div>
+
+
+
+## 📫 How to reach me
+<p align="left">
+  <a href="mailto:freefree9758@gmail.com"><img src="https://img.shields.io/badge/Email-freefree9758@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://go-to-west.tistory.com"><img src="https://img.shields.io/badge/Tistory-Blog-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+  <a href="https://instagram.com/junn._s"><img src="https://img.shields.io/badge/Instagram-junn._s-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
