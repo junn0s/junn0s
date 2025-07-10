@@ -1,12 +1,12 @@
 ## 🏅 Stats
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 40px; padding: 10px 0;">
   
   <a href="https://solved.ac/gray1735/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735" alt="Solved.ac Profile"/>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735" alt="Solved.ac Profile" style="height:140px;"/>
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true" style="height:140px;"/>
   
 </div>
 
