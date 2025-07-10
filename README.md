@@ -1,7 +1,14 @@
 ## 🏅 Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735)](https://solved.ac/gray1735/)
 
-![junn0s's GitHub stats](https://github-readme-stats.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true)
+<div style="display: flex; align-items: center; gap: 20px;">
+  
+  <a href="https://solved.ac/gray1735/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735" alt="Solved.ac Profile"/>
+  </a>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true"/>
+  
+</div>
 
 
 
