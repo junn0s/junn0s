@@ -6,7 +6,10 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735" alt="Solved.ac Profile" style="height:160px;"/>
   </a>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true" style="height:160px;"/>
+  
+  <img height="160"
+     src="https://github-readme-stats-sigma-five.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true&hide_title=true&hide=commits,prs,issues"
+     alt="GitHub Stats" />
   
 </div>
 
