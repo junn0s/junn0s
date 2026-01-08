@@ -11,6 +11,16 @@
 </div>
 
 
+## 🏅 Stats
+
+<div align="center">
+  <a href="https://solved.ac/gray1735/">
+    <img height="160" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gray1735" alt="Solved.ac Profile" />
+  </a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=junn0s&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
+</div>
+
+
 
 ## 🛠️ Skills
 
